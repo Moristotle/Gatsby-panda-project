@@ -1,0 +1,45 @@
+.layout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 650;
+    padding: 0 1rem;
+}
+
+.header {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.title {
+    
+}
+
+
+.links {
+    
+   list-style: none;
+  
+}
+
+.link {
+    text-shadow: 'none';
+    background-image: 'none';
+}
+
+.listItem {
+    
+   
+}
+
+.content {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
